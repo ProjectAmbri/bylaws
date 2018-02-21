@@ -17,13 +17,18 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 6.  Attendance: physical presence at a meeting, or participation via phone or other audio/video/live-chat channel.
 
 ### Section 4: Core Values
-	* Resisting gentrification
-	* Providing a safe space for Queer/trans, indigenous people, people of color, immigrants, and other marginalized groups
-	* feminism/ anarchism
-	* collective liberation
-	* collective empowerment
-	* engaging with change
-	* transparency/ sharing information
+	Human rights are inherent to all human beings
+	Seattle belongs to the Duwamish People
+	Black Lives Matter
+	Rent is theft
+	Nobody is Illegal
+	Nurture the next generation
+	Maintain transparency in leadership
+	Keep money local
+	Liberation is a collective process
+	Respect existing communities and local history
+	Engage with change
+
 
 The AF Promise to the community is that each action taken by Project Ambri, through programs or administration, either by a paid staff person, member, or volunteer, will strive to be in full alignment with the AF purpose and core values.
 
