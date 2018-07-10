@@ -19,13 +19,13 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 
 ### Section 3: Core Values
 	*Human rights as defined by the United Nations belong to all identities of people, including all:
-	 **ages
-	 **religious or spiritual affiliations
-	 **gender or sexual preferences
-	 **ethnic identities
-	 **immigrants and refugees
-	 **prisoners
-	 **homeless and low income
+		*ages
+		*religious or spiritual affiliations
+		*gender or sexual preferences
+		*ethnic identities
+		*immigrants and refugees
+		*prisoners
+		*homeless and low income
 	*Private Property is theft
 	*Nurturing the next generation is everyone's responsiblilty
 	*Leadership should be transparent and resist hierarchy
