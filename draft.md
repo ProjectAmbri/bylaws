@@ -18,20 +18,20 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 7.  Departments: sub-categories of the collective with a specific focus.
 
 ### Section 3: Core Values
-	- Human rights as defined by the United Nations belong to all identities of people, including all:
-		* ages
-		* religious or spiritual affiliations
-		* gender or sexual preferences
-		* ethnic identities
-		* immigrants and refugees
-		* prisoners
-		* homeless and low income
-	- Private Property is theft
-	- Nurturing the next generation is everyone's responsiblilty
-	- Leadership should be transparent and resist hierarchy
-	- Spend money locally
-	- Liberation is a collective process
-	- Respect existing communities and local history
+*  Human rights as defined by the United Nations belong to all identities of people, including all:
+*   * ages
+*   * religious or spiritual affiliations
+*   * gender or sexual preferences
+*   * ethnic identities
+*   * immigrants and refugees
+*   * prisoners
+*   * homeless and low income
+*  Private Property is theft
+*  Nurturing the next generation is everyone's responsiblilty
+*  Leadership should be transparent and resist hierarchy
+*  Spend money locally
+*  Liberation is a collective process
+*  Respect existing communities and local history
 
 The AF Promise to the community is that each action taken by Project Ambri, through programs or administration, either by a paid staff person, member, or volunteer, will strive to be in full alignment with the AF purpose and core values.
 
@@ -58,7 +58,7 @@ The AF Promise to the community is that each action taken by Project Ambri, thro
 	D.  Multiple apartments for select members of the AF collective to live on site, operated by an affiliate housing co-operative.
 	
 ### Section 5: General Powers
-To carry out its designated purpose, functions, and objectives, the Corporation shall have the following powers:
+1.  To carry out its designated purpose, functions, and objectives, the Corporation shall have the following powers:
 	
 	A.  Upon the approval of the membership, to develop community support and participation in the project with the goal of maximizing broad local involvement.
 	
@@ -83,7 +83,7 @@ Until a permanent location has been purchased for the project, the principal off
 
 ### Section 1: Meetings
 
-1. All management decisions for Project Ambri are to be made by the Collective in accordance with the decision making structure outlined in this document.
+1.  All management decisions for Project Ambri are to be made by the Collective in accordance with the decision making structure outlined in this document.
 
 2.  The Collective will meet no fewer than four times a year. 
 
@@ -107,17 +107,17 @@ Until a permanent location has been purchased for the project, the principal off
 
 4.  Members in attendance shall act by consensus. The Corporation’s consensus process consists of:
 	
-	a) allowing all Members’ views and concerns to be heard;
+	A.  allowing all Members’ views and concerns to be heard;
 	
-	b) making a good-faith effort to incorporate all Members’ views and concerns in decision-making;
+	B.  making a good-faith effort to incorporate all Members’ views and concerns in decision-making;
 	
-	c) using consensus voting, which includes:
+	C.  using consensus voting, which includes:
 		
-		(1) a yes vote to support the proposal; or
+        1) a yes vote to support the proposal; or
 		
-		(2) a stand-aside, which means “I have concerns but I will go along with the majority if they vote yes—however, if one third (1/3) or more of the members present stand aside, the proposal is blocked; or
+        2) a stand-aside, which means “I have concerns but I will go along with the majority if they vote yes—however, if one third (1/3) or more of the members present stand aside, the proposal is blocked; or
 		
-		(3) a block, which means “I believe this proposal goes against the Corporation’s values, goals, or Purpose as stated in the Bylaws—a block means the proposal does not pass, but members can continue to discuss it, and the block must be upheld by two-thirds (2/3) of the members present.
+        3) a block, which means “I believe this proposal goes against the Corporation’s values, goals, or Purpose as stated in the Bylaws—a block means the proposal does not pass, but members can continue to discuss it, and the block must be upheld by two-thirds (2/3) of the members present.
 
 5.  Whenever, in respect of any action to be taken by the members or the Board of Directors, these Bylaws require quorums, voting, or other concurrence of a proportion of members or directors greater than otherwise required by law, then such provisions of these Bylaws shall control.
 
@@ -125,11 +125,11 @@ Until a permanent location has been purchased for the project, the principal off
 
 1. Eligibility for membership in the Corporation shall consist of three (3) requirements completed in the six-month period prior to a membership regular meeting at which the prospective member wishes to apply for membership:
 	
-	a) Performing volunteer services on at least six (3) separate occasions;
+	A.  Performing volunteer services on at least six (3) separate occasions;
 	
-	b) Submitting the member's name and telephone number (or other reliable means of contact) and being added to the Corporation’s listserve for communication purposes;.
+	B.  Submitting the member's name and telephone number (or other reliable means of contact) and being added to the Corporation’s listserve for communication purposes;.
 	
-	c) Not volunteering under coercion, such as court-ordered community service or service learning for education requirements.
+	C.  Not volunteering under coercion, such as court-ordered community service or service learning for education requirements.
 
 2. Proof or declaration of a religious belief, sexual preference, political view, or ethnic status will not be required for membership.
 
@@ -162,21 +162,21 @@ Until a permanent location has been purchased for the project, the principal off
 
 2.  The minimum four (4) Directors shall serve as the Officers of the Corporation, as follows:
 	
-	a. President, whose duties include representing the Corporation when necessary, such as signing grant applications and similar official documents;
-	
-	b. Vice President, whose duties include facilitating regular, annual, and special meetings as well as filling in for the President’s duties when necessary;
-	
-	c. Treasurer, whose duties include making sure that the accounting books and records of the Corporation are maintained and who is custodian of all assets and monies of the Corporation. The Treasurer shall report monthly the Corporation’s financial status to the membership at regular meetings.
-	
-	d. Scribe Secretary, whose duties include shall maintaining meeting records and membership and director rolls of the Corporation.
-	
-	e. In the event of resignation or removal of one of the above directors, a special meeting shall be held open to all Collective Members to elect the replacement.
+    A.  President, whose duties include representing the Corporation when necessary, such as signing grant applications and similar official documents;
+    
+    B.  Vice President, whose duties include facilitating regular, annual, and special meetings as well as filling in for the President’s duties when necessary;
+    
+    C.  Treasurer, whose duties include making sure that the accounting books and records of the Corporation are maintained and who is custodian of all assets and monies of the Corporation. The Treasurer shall report monthly the Corporation’s financial status to the membership at regular meetings.
+    
+    D.  Scribe Secretary, whose duties include shall maintaining meeting records and membership and director rolls of the Corporation.
+    
+    E.  In the event of resignation or removal of one of the above directors, a special meeting shall be held open to all Collective Members to elect the replacement.
 
 3. If the Board of Directors consists of more than the minimum four (4) Directors, non-Officer Directors must: 
 	
-	a.  Share in performing the tasks of running the business of the Corporation, such as fund-raising, outreach, and day-to-day operations; and
+	A.  Share in performing the tasks of running the business of the Corporation, such as fund-raising, outreach, and day-to-day operations; and
 	
-	b. Make a good-faith effort to attend the four (4) quarterly meetings.
+	B. Make a good-faith effort to attend the four (4) quarterly meetings.
 
 4. The Board of Directors may at its discretion create a paid-staff position, an advisory board, or other similar supportive roles in the best interests of the Corporation.
 
@@ -197,11 +197,11 @@ Until a permanent location has been purchased for the project, the principal off
 
 6.  A member may be elected to the Board of Directors for a term ofone (1) year by the following process:
 	
-	a) being a member for at least three (3) months;
+	A.  being a member for at least three (3) months;
 	
-	b) being nominated by a current member;
+	B.  being nominated by a current member;
 	
-	c) being approved by the members at a regular meeting and invited by the Board to become a Director.
+	C.  being approved by the members at a regular meeting and invited by the Board to become a Director.
 
 7.  A Director will be removed from the Board of Directors upon receipt of her or his written resignation from the Board.
 
