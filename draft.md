@@ -112,11 +112,8 @@ Until a permanent location has been purchased for the project, the principal off
 	B.  making a good-faith effort to incorporate all Members’ views and concerns in decision-making;
 	
 	C.  using consensus voting, which includes:
-		
         * a yes vote to support the proposal; or
-		
         * a stand-aside, which means “I have concerns but I will go along with the majority if they vote yes—however, if one third (1/3) or more of the members present stand aside, the proposal is blocked; or
-		
         * a block, which means “I believe this proposal goes against the Corporation’s values, goals, or Purpose as stated in the Bylaws—a block means the proposal does not pass, but members can continue to discuss it, and the block must be upheld by two-thirds (2/3) of the members present.
 
 5.  Whenever, in respect of any action to be taken by the members or the Board of Directors, these Bylaws require quorums, voting, or other concurrence of a proportion of members or directors greater than otherwise required by law, then such provisions of these Bylaws shall control.
