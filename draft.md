@@ -18,7 +18,7 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 7.  Departments: sub-categories of the collective with a specific focus.
 
 ### Section 3: Core Values
-	*Human rights as defined by the United Nations belong to all identities of people, including all:
+	-Human rights as defined by the United Nations belong to all identities of people, including all:
 		*ages
 		*religious or spiritual affiliations
 		*gender or sexual preferences
@@ -26,21 +26,25 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 		*immigrants and refugees
 		*prisoners
 		*homeless and low income
-	*Private Property is theft
-	*Nurturing the next generation is everyone's responsiblilty
-	*Leadership should be transparent and resist hierarchy
-	*Spend money locally
-	*Liberation is a collective process
-	*Respect existing communities and local history
+	-Private Property is theft
+	-Nurturing the next generation is everyone's responsiblilty
+	-Leadership should be transparent and resist hierarchy
+	-Spend money locally
+	-Liberation is a collective process
+	-Respect existing communities and local history
 
 The AF Promise to the community is that each action taken by Project Ambri, through programs or administration, either by a paid staff person, member, or volunteer, will strive to be in full alignment with the AF purpose and core values.
 
 ### Section 4: Functions and Objectives
 
 1.  Project Ambri will:
+	
 	A.  promote and provide a medium whereby workers may act together, collectively and cooperatively, towards the creation of productive and non-alienating work for the benefit of its members and the public;
+	
 	B.  promote the economic welfare of its members and the public through the collective ownership of production, distribution, and administration of tools and equipment;
+	
 	C.  engage in any business or activity which shall serve the economic, educational, and cultural welfare of its members and the public;
+	
 	D.  advance the workers’ cooperative movement as an economic system; and to join, or otherwise associate itself with other cooperative societies locally and around the world for the purpose of mutual aid and the creation of a cooperative society.
 
 2.  As soon as it is financially viable, Project Ambri will purchase a building to be divided for multiple uses, including: 
