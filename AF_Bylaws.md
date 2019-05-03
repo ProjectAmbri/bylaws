@@ -125,7 +125,7 @@ Until a permanent location has been purchased for the project, the principal off
 
 1. Eligibility for membership in the Corporation shall consist of three (3) requirements completed in the six-month period prior to a membership regular meeting at which the prospective member wishes to apply for membership:
 	
-	A.  Performing volunteer services on at least six (3) separate occasions;
+	A.  Performing volunteer services on at least six (6) separate occasions;
 	
 	B.  Submitting the member's name and telephone number (or other reliable means of contact) and being added to the Corporation’s listserve for communication purposes;.
 	
