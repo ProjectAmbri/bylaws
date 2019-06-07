@@ -10,7 +10,7 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 
 ### Section 2: Definitions
 
-1.  The Ambrielan Foundation (hereafter referred to as Project Ambri or AF): the legal organization registered as a public benefit not for profit corporation in Washington State.
+1.  The Ambrielan Foundation (hereafter referred to as Project Ambri or AF or "the Corporation"): the legal organization registered as a public benefit not for profit corporation in Washington State.
 2.  Collective: the group of people who have become members of Project Ambri.
 4.  Collective member: A member of Project Ambri.
 5.  Prospective collective member: A volunteer or active member within the community whom the Collective is considering as a potential future collective member. 
