@@ -10,7 +10,7 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 
 ### Section 2: Definitions
 
-1.  The Ambrielan Foundation (hereafter referred to as Project Ambri or AF or "the Corporation"): the legal organization registered as a public benefit not for profit corporation in Washington State.
+1.  The Ambrielan Foundation (hereafter referred to as Project Ambri or AF): the legal organization registered as a public benefit not for profit corporation in Washington State.
 2.  Collective: the group of people who have become members of Project Ambri.
 4.  Collective member: A member of Project Ambri.
 5.  Prospective collective member: A volunteer or active member within the community whom the Collective is considering as a potential future collective member. 
@@ -18,7 +18,7 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 7.  Departments: sub-categories of the collective with a specific focus.
 
 ### Section 3: Core Values
-*  Human rights as defined by the United Nations belong to all identities of people, including all:
+*  Human rights, as defined by the United Nations, belong to all identities of people, including all:
    * ages
    * religious or spiritual affiliations
    * gender or sexual preferences
@@ -33,13 +33,13 @@ The Ambrielan Foundation will provide tools for organizers and artists working t
 *  Liberation is a collective process
 *  Respect existing communities and local history
 
-The AF Promise to the community is that each action taken by Project Ambri, through programs or administration, either by a paid staff person, member, or volunteer, will strive to be in full alignment with the AF purpose and core values.
+The AF Promise™️ to the community is that each action taken by Project Ambri, through programs or administration, either by a paid staff person, member, or volunteer, will strive to be in full alignment with the AF purpose and core values.
 
 ### Section 4: Functions and Objectives
 
 1.  Project Ambri will:
 	
-	A.  promote and provide a medium whereby workers may act together, collectively and cooperatively, towards the creation of productive and non-alienating work for the benefit of its members and the public;
+	A.  promote and provide a forum whereby workers may act together, collectively and cooperatively, towards the creation of productive and non-alienating work for the benefit of its members and the public;
 	
 	B.  promote the economic welfare of its members and the public through the collective ownership of production, distribution, and administration of tools and equipment;
 	
@@ -58,20 +58,20 @@ The AF Promise to the community is that each action taken by Project Ambri, thro
 	D.  Multiple apartments for select members of the AF collective to live on site, operated by an affiliate housing co-operative.
 	
 ### Section 5: General Powers
-1.  To carry out its designated purpose, functions, and objectives, the Corporation shall have the following powers:
+1.  To carry out its designated purpose, functions, and objectives, the AF shall have the following powers:
 	
 	A.  Upon the approval of the membership, to develop community support and participation in the project with the goal of maximizing broad local involvement.
 	
-	B.  Upon approval of the membership, to assist in the preparation of any grant proposed in furtherance of the Corporation's purposes and to solicit money from any and all sources.
+	B.  Upon approval of the membership, to assist in the preparation of any grant proposed in furtherance of the AF's purposes and to solicit money from any and all sources.
 	
 	C.  Upon approval of the membership, without limitation of the foregoing, to have and to exercise any and all other powers, rights and privileges which a corporation organized under the Washington Non-Profit Corporation Act (RCW 24.03, et seq), or corresponding provisions of any future legislation, may now or hereafter have or exercise.
 	
-	D.  Maintenance of Income Tax Exemption. Notwithstanding any other provisions of these Articles, the Corporation shall not carry on any activities not permitted to be carried on by a corporation exempt from Federal Income Tax under Section 501(c)(3) of the Internal Revenue Code, or by a corporation, contributions to which are deductible under Sec. 170(c)(2) of the Internal Revenue Code, and the Corporation shall not acquire any property nor engage in any activities which, in the opinion of its officers, may jeopardize such Federal Income Tax exemption.
+	D.  Maintenance of Income Tax Exemption. Notwithstanding any other provisions of these Articles, the AF shall not carry on any activities not permitted to be carried on by a corporation exempt from Federal Income Tax under Section 501(c)(3) of the Internal Revenue Code, or by a corporation, contributions to which are deductible under Sec. 170(c)(2) of the Internal Revenue Code, and the AF shall not acquire any property nor engage in any activities which, in the opinion of its officers, may jeopardize such Federal Income Tax exemption.
 	
-	E.  Upon the approval of the membership, to make official written statements of policy or position on issues affecting the Corporation for the Corporation's stated purposes, and, if necessary, appoint spokesperson(s) to officially represent the Corporation. Statements not issued in situations stated above do not necessarily represent the position of the Corporation.
+	E.  Upon the approval of the membership, to make official written statements of policy or position on issues affecting the AF for the AF's stated purposes, and, if necessary, appoint spokesperson(s) to officially represent the AF. Statements not issued in situations stated above do not necessarily represent the position of the AF.
 
 ### Section 6: Office & Duration
-Until a permanent location has been purchased for the project, the principal office of the Corporation will be located in Seattle. The duration of the Corporation will be perpetual. The death or resignation of any Member will not result in the dissolution of the Corporation.
+Until a permanent location has been purchased for the project, the principal office of the AF will be located in Seattle. The duration of the AF will be perpetual. The death or resignation of any Member will not result in the dissolution of the AF.
 
 ### Section 7: Bylaws Generally
 
@@ -85,17 +85,17 @@ Until a permanent location has been purchased for the project, the principal off
 
 1.  All management decisions for Project Ambri are to be made by the Collective in accordance with the decision making structure outlined in this document.
 
-2.  The Collective will meet no fewer than four times a year. 
+2.  The Collective will meet no fewer than four (4) times a year. 
 
-3.  Members must remember that they have a responsibility to attend meetings of the Collective at least four times per year.  
+3.  Members must attend meetings of the Collective at least four (4) times per year.  
 
-4.  The quarterly meetings of the Members shall be held on the third Thursday in the months of January, April, July and October in each year, beginning with the year 2018, at 7:00 pm, to discuss budgeting and the overall financial situation of the business  in addition to any business as may come before the meeting.
+4.  The quarterly meetings of the Members shall be held on the third Thursday in the months of January, April, July and October in each year, beginning with the year 2018, at 7:00 pm PST, to discuss budgeting and the overall financial situation of the business  in addition to any business as may come before the meeting.
 
-5. Members may designate any place within a ten mile radius of the City of Seattle, as the place of meeting for any quarterly.  If no designation is made, or if a special meeting is otherwise called, the place of meeting shall be the principal office of the organization in the City of Seattle, Washington.
+5. Members may designate any place within a ten (10) mile radius of the City of Seattle, as the place of meeting for any quarterly.  If no designation is made, or if a special meeting is otherwise called, the place of meeting shall be the principal office of the organization in the City of Seattle, Washington.
 
-6. Written, printed, electronic notice stating the place, day, hour, and purpose or purposes of the meeting for which the meeting is called, shall be delivered not less than 14 days before the date of the meeting, either personally or by email, by or at the direction of the president, or the secretary, or the officer or persons calling the meeting, to each member of record entitled to vote at such meeting.
+6. Written, printed, electronic notice stating the place, day, hour, and purpose or purposes of the meeting for which the meeting is called, shall be delivered not less than fourteen (14) days before the date of the meeting, either personally or by email, by or at the direction of the president, or the secretary, or the officer or persons calling the meeting, to each member of record entitled to vote at such meeting.
 
-8. Special meetings of the Members, for any purpose or purposes, unless otherwise prescribed by statute, may be called by no less than five of all the outstanding members of the organization entitled to vote at the meeting. A special meeting as called by the members may be located within or without the State of Washington as chosen by the members.
+8. Special meetings of the Members, for any purpose or purposes, unless otherwise prescribed by statute, may be called by no less than five (5) of all the outstanding members of the organization entitled to vote at the meeting. A special meeting as called by the members may be located within or without the State of Washington as chosen by the members.
 
 ### Section 2: Quorum and Voting Requirements
 
@@ -105,7 +105,7 @@ Until a permanent location has been purchased for the project, the principal off
 
 3.  If a member is not able to attend a meeting where major decisions are being made and fears that their absence might undermine quorum, the member may exempt themselves from quorum by communicating this to the collective, or strongly request that the collective postpone the decision until the member can participate.
 
-4.  Members in attendance shall act by consensus. The Corporation’s consensus process consists of:
+4.  Members in attendance shall act by consensus. The AF’s consensus process consists of:
 	
 	A.  allowing all Members’ views and concerns to be heard;
 	
@@ -117,23 +117,23 @@ Until a permanent location has been purchased for the project, the principal off
      
      * a stand-aside, which means “I have concerns but I will go along with the majority if they vote yes—however, if one third (1/3) or more of the members present stand aside, the proposal is blocked; or
      
-     * a block, which means “I believe this proposal goes against the Corporation’s values, goals, or Purpose as stated in the Bylaws—a block means the proposal does not pass, but members can continue to discuss it, and the block must be upheld by two-thirds (2/3) of the members present.
+     * a block, which means “I believe this proposal goes against the AF’s values, goals, or Purpose as stated in the Bylaws—a block means the proposal does not pass, but members can continue to discuss it, and the block must be upheld by two-thirds (2/3) of the members present.
 
 5.  Whenever, in respect of any action to be taken by the members or the Board of Directors, these Bylaws require quorums, voting, or other concurrence of a proportion of members or directors greater than otherwise required by law, then such provisions of these Bylaws shall control.
 
 ### Section 3: Membership
 
-1. Eligibility for membership in the Corporation shall consist of three (3) requirements completed in the six-month period prior to a membership regular meeting at which the prospective member wishes to apply for membership:
+1. Eligibility for membership in the AF shall consist of three (3) requirements completed in the six-month period prior to a membership regular meeting at which the prospective member wishes to apply for membership:
 	
 	A.  Performing volunteer services on at least six (6) separate occasions;
 	
-	B.  Submitting the member's name and telephone number (or other reliable means of contact) and being added to the Corporation’s listserve for communication purposes;.
+	B.  Submitting the member's name and telephone number (or other reliable means of contact) and being added to the AF’s listserve for communication purposes;.
 	
-	C.  Not volunteering under coercion, such as court-ordered community service or service learning for education requirements.
+	C.  Not volunteering under coercion, such as (but not limited to) court-ordered community service or service learning for education requirements.
 
 2. Proof or declaration of a religious belief, sexual preference, political view, or ethnic status will not be required for membership.
 
-3.  Collective Membership is voluntary, and is based on approval by the existing Collective. Prospective members apply to join the Corporation at a regular meeting, subject to approval of the members present. Prospective members must agree to work within the existing by-laws of the Collective.
+3.  Collective Membership is voluntary, and is based on approval by the existing Collective. Prospective members apply to join the AF at a regular meeting, subject to approval of the members present. Prospective members must agree to work within the existing by-laws of the Collective.
 
 4.  All of Project Ambri’s Collective documents, meetings, and meeting notes, and other operating agreements are open to scrutiny by any Collective member.
 
@@ -158,40 +158,40 @@ Until a permanent location has been purchased for the project, the principal off
 8.  A member shall retain the right to, at any time, withdraw membership by notifying any of the Board of Directors by written notice or other reliable, verifiable means. When a member leaves the collective voluntarily, all issues related to keys, passwords, and the disbursement of shared property will be determined by the collective on a case-by-case basis.
 
 ### Section 4: Board of Directors
-1.  The affairs of this Corporation shall be managed by a Board of Directors which consists of at least a minimum of four (4) members of the Corporation. The maximum number of Directors may be specified by amendment of the Bylaws.
+1.  The affairs of the AF shall be managed by a Board of Directors which consists of at least a minimum of four (4) members of the AF. The maximum number of Directors may be specified by amendment of the Bylaws.
 
-2.  The minimum four (4) Directors shall serve as the Officers of the Corporation, as follows:
+2.  The minimum four (4) Directors shall serve as the Officers of the AF, as follows:
 	
-    A.  President, whose duties include representing the Corporation when necessary, such as signing grant applications and similar official documents;
+    A.  President, whose duties include representing the AF when necessary, such as signing grant applications and similar official documents;
     
     B.  Vice President, whose duties include facilitating regular, annual, and special meetings as well as filling in for the President’s duties when necessary;
     
-    C.  Treasurer, whose duties include making sure that the accounting books and records of the Corporation are maintained and who is custodian of all assets and monies of the Corporation. The Treasurer shall report monthly the Corporation’s financial status to the membership at regular meetings.
+    C.  Treasurer, whose duties include making sure that the accounting books and records of the AF are maintained and who is custodian of all assets and monies of the AF. The Treasurer shall report monthly the AF’s financial status to the membership at regular meetings.
     
-    D.  Scribe Secretary, whose duties include shall maintaining meeting records and membership and director rolls of the Corporation.
+    D.  Scribe Secretary, whose duties include shall maintaining meeting records and membership and director rolls of the AF.
     
     E.  In the event of resignation or removal of one of the above directors, a special meeting shall be held open to all Collective Members to elect the replacement.
 
 3. If the Board of Directors consists of more than the minimum four (4) Directors, non-Officer Directors must: 
 	
-	A.  Share in performing the tasks of running the business of the Corporation, such as fund-raising, outreach, and day-to-day operations; and
+	A.  Share in performing the tasks of running the business of the AF, such as fund-raising, outreach, and day-to-day operations; and
 	
 	B. Make a good-faith effort to attend the four (4) quarterly meetings.
 
-4. The Board of Directors may at its discretion create a paid-staff position, an advisory board, or other similar supportive roles in the best interests of the Corporation.
+4. The Board of Directors may at its discretion create a paid-staff position, an advisory board, or other similar supportive roles in the best interests of the AF.
 
-5.  The Board shall operate by consensus of its membership Directors who are present; if consensus can’t be reached, a majority vote shall be taken. The Corporation’s consensus process is described under Article IV, Quorum and Voting Requirements.
+5.  The Board shall operate by consensus of its membership Directors who are present; if consensus can’t be reached, a majority vote shall be taken. The AF’s consensus process is described under Article IV, Quorum and Voting Requirements.
 
 6.  A quorum of one half five (5) of the current Board membership of Directors, then holding office, shall be required to transact business at a regular meeting. In an emergency or other situation requiring prompt action, the available Directors, by unanimous decision, may take or direct action to be taken on behalf of the Board, subject to ratification of the Board at its the next regular meeting.
 
 ### Section 5: Board of Directors Elections and Removal
 1.  The Board of Directors shall be reviewed once per year by Collective Members at the Fall quarterly meeting. Directors Officers shall hold office for one-year terms and may be re-elected following the expiration of their term of office. There is no term limit to Board Membership as long as Collective Members continue to re-elect them.
 
-2.  Four (4) Officers of the Corporation shall be elected at each annual meeting. Officer positions are defined in Aricle ## Section ##:(2). Directors Officers shall hold office for one (1) year or until their successors are duly elected. The annual meeting shall be held as specified in Article ##, Paragraph ##. Only Collective Members are eligible to hold Board of Director or Officer positions.
+2.  Four (4) Officers of the AF shall be elected at each annual meeting. Officer positions are defined in Aricle ## Section ##:(2). Directors Officers shall hold office for one (1) year or until their successors are duly elected. The annual meeting shall be held as specified in Article ##, Paragraph ##. Only Collective Members are eligible to hold Board of Director or Officer positions.
 
 3.  Officers are elected either by acclamation, by consensus, or by receiving a majority of the votes cast by members at the annual meeting.
 
-4.  Each Member of the Corporation may cast one (1) vote per position in the election of Officers. Candidates for office receiving the highest number of votes shall be elected, provided no candidate shall be elected with less than three (3) votes. In the event of a failure to elect a sufficient number of Officers, the election shall be repeated until all offices have been filled from the remaining candidates. In the event of a tied vote, the election shall be repeated from among the tied candidates.
+4.  Each Member of the AF may cast one (1) vote per position in the election of Officers. Candidates for office receiving the highest number of votes shall be elected, provided no candidate shall be elected with less than three (3) votes. In the event of a failure to elect a sufficient number of Officers, the election shall be repeated until all offices have been filled from the remaining candidates. In the event of a tied vote, the election shall be repeated from among the tied candidates.
 
 5.  An Officer, by not attending three (3) consecutive membership regular meetings, may be removed from office by a vote of the membership. A resulting vacant board position Office shall be filled by general election at the next regularly scheduled membership meeting.
 
@@ -205,7 +205,7 @@ Until a permanent location has been purchased for the project, the principal off
 
 7.  A Director will be removed from the Board of Directors upon receipt of her or his written resignation from the Board.
 
-8.  The Board of Directors may, by majority vote, remove any Director whenever, in its judgment, the best interests of the Corporation shall be served thereby; provided, however, that written notice of such proposed removal shall be given to the Director sought to be removed not less than thirty (30) days prior to the meeting at which such proposal is to be voted upon.
+8.  The Board of Directors may, by majority vote, remove any Director whenever, in its judgment, the best interests of the AF shall be served thereby; provided, however, that written notice of such proposed removal shall be given to the Director sought to be removed not less than thirty (30) days prior to the meeting at which such proposal is to be voted upon.
 
 9.  Any Director may be removed from office without cause by a majority vote of the Members entitled to vote at any regular or special meeting of the membership; provided, however, that written notice of such proposed removal shall be given to the Director sought to be removed not less than thirty (30) days prior to the meeting at which such proposal is to be voted upon.
 
@@ -237,10 +237,10 @@ Until a permanent location has been purchased for the project, the principal off
 8.  The Collective maintains the right to hold individual collective members, prospective collective members, or other non-member employees personally liable for financial losses or damage to assets deemed by the Collective to have resulted from grossly negligent or malicious behavior on the part of said individuals. Such a decision falls under the procedure for Major Decisions outlined in Article 2 Section 2.
 
 ## ARTICLE III: AMENDMENTS
-These Bylaws may be amended by a two-thirds (2/3) vote of the membership present and voting at any meeting of the Corporation that meets Quorum requirements outlined in Aricle II Section 2. Fifteen (15) days' notice of any proposed amendment shall be given to the membership.
+These Bylaws may be amended by a two-thirds (2/3) vote of the membership present and voting at any meeting of the AF that meets Quorum requirements outlined in Aricle II Section 2. Fifteen (15) days' notice of any proposed amendment shall be given to the membership.
 
 ## ARTICLE IV: DISSOLUTION
-The Corporation may be voluntarily dissolved with the written assent of not less than two-thirds (2/3) of the membership conducted at any annual, regular, or special meeting. A motion of dissolutionment shall specify the disposition of Corporation assets as specified in the Articles of Incorporation.
+The AF may be voluntarily dissolved with the written assent of not less than two-thirds (2/3) of the membership conducted at any annual, regular, or special meeting. A motion of dissolutionment shall specify the disposition of AF assets as specified in the Articles of Incorporation.
 
 
 These Bylaws were adopted after review and comment by membership present at the regular monthly meeting. I certify that this is a true and correct copy of the Bylaws as filed in the records of this corporation.
